@@ -1,0 +1,6 @@
+.content {
+  padding: var(--indent5x) var(--indent2_5x);
+  max-width: 800px;
+  min-width: 320px;
+  margin: 0 auto;
+}

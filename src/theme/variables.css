@@ -1,0 +1,45 @@
+:root {
+  /* colors */
+  --white: white;
+  --dark: #282a35;
+  --green: #108e71;
+  --light-green: #08b18a;
+
+
+  /* text */
+  --primary-text-color: var(--white);
+  --font-family: 'Roboto', sans-serif;
+
+  /* background */
+  --body-bg: var(--dark);
+
+  /* radius */
+  --radius-base: 4px;
+
+  /* indents */
+  --indent: 8px;
+  --indent-half: 4px;
+  --indent1_5x: 12px;
+  --indent2x: 16px;
+  --indent2_5x: 20px;
+  --indent3x: 24px;
+  --indent3_5x: 28px;
+  --indent4x: 32px;
+  --indent5x: 40px;
+  --indent6x: 48px;
+  --indent7x: 56px;
+  --indent7_5x: 60px;
+  --indent8x: 64px;
+  --indent9x: 72px;
+  --indent10x: 80px;
+  --indent11x: 88px;
+  --indent12x: 96px;
+  --indent13x: 104px;
+  --indent14x: 112px;
+  --indent15x: 120px;
+  --indent16x: 128px;
+  --indent17x: 136px;
+  --indent18x: 144px;
+  --indent19x: 152px;
+  --indent20x: 160px;
+}

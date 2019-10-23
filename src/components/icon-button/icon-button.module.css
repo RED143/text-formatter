@@ -1,0 +1,22 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  border-radius: var(--radius-base);
+  background-color: var(--green);
+  border: none;
+  padding: var(--indent) var(--indent2x);
+  color: var(--text-color);
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 1px 1px 20px 7px rgba(0,0,0,0.47);
+}
+
+.button:hover {
+  background-color: var(--light-green);
+}
+
+.title {
+  margin-left: var(--indent)
+}
